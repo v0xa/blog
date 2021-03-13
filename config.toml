@@ -1,4 +1,4 @@
-baseURL = "https://v0xa.github.io/"
+baseURL = "https://v0xa.github.io/blog"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "anatole"
