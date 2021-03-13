@@ -5,6 +5,7 @@ date: 2021-03-13T22:21:11+03:00
 draft: false
 ---
 
+Short brief about js details
 
 Let vs Var vs Const
 -------------------
