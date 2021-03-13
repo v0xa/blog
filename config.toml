@@ -1,0 +1,24 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "anatole"
+
+[params]
+title = "I'm Jane Doe"
+author = "Jane Doe"
+description = "Call me Jane"
+profilePicture = "images/profile.jpg"
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "js"
+  weight = 200
+  identifier = "js"
+  url = "/js/"
